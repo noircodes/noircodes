@@ -1,4 +1,4 @@
-# **Hi, I’m Ilham Izdhihar as known as [Noircodes](https://noircodes.netlify.app/) 👋**
+# **Hi, I’m Ilham Izdhihar also known as [Noircodes](https://noircodes.netlify.app/) 👋**
 
 ## **How am I?**
 - 👀 I’m interested in learning Programming Language
