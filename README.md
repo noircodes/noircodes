@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[![Noircodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=noircodes&show_icons=true&theme=dark)](https://github.com/noircodes/github-readme-stats)
+[![Noircodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=noircodes&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/noircodes/github-readme-stats)
 
 <br />
 
