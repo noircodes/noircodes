@@ -4,9 +4,9 @@
 
 ## How am I?
 
-- 🌱 I’m currently learning Python 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Build a 3 portofolio.
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate with other programmer
+- 🥅 2021 Goals: Build 3 portofolio.
 - ⚡ Fun fact: I love to play a game, ever had a dream become a professional gamer.
 
 ### Connect with me:
