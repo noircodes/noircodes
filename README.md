@@ -4,9 +4,9 @@
 
 ## How am I?
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning PHP Laravel
 - 👯 I’m looking to collaborate with other programmer
-- 🥅 2022 Goals: Build live projects portofolio and join tech company
+- 🥅 2022 Goals: Build projects portofolio and join tech company
 - ⚡ Fun fact: I love to play a game, ever had a dream become a professional gamer.
 
 ### Connect with me:
